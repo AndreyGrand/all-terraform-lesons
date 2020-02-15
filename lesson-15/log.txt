@@ -1,0 +1,2 @@
+Terraform START: Вс фев 9 16:44:33 MSK 2020
+Terraform END: Вс фев 9 18:15:42 MSK 2020
